@@ -1,0 +1,3 @@
+name = "lolcommits"
+version = "0.16.4"
+description = "lolcommits takes a snapshot with your webcam every time you git commit code, and archives a lolcat style image with it. It's selfies for software developers. `git blame` has never been so much fun."
